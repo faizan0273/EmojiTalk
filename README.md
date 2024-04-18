@@ -32,7 +32,8 @@ EmojiTalk is committed to continuous improvement and innovation. Future enhancem
 * Advanced gesture recognition for enhanced communication.
 * Collaborative features for group communication and interactions.
 
-* EmojiTalk App Interface: Enhancing Deaf Communication
+
+EmojiTalk App Interface: Enhancing Deaf Communication
 
 
 
