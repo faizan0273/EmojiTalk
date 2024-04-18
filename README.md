@@ -31,3 +31,12 @@ EmojiTalk is committed to continuous improvement and innovation. Future enhancem
 * Integration of additional languages and sign language support.
 * Advanced gesture recognition for enhanced communication.
 * Collaborative features for group communication and interactions.
+
+* EmojiTalk App Interface: Enhancing Deaf Communication
+
+
+
+ ![Screenshot (174)](https://github.com/faizan0273/EmojiTalk/assets/77250133/1baec45a-35f0-4e17-8843-a8228bbbc3ca)
+
+
+
